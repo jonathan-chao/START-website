@@ -1,0 +1,38 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family:          'Noto Serif', 'Serif';
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+body {
+  font-family:          'Noto Serif', 'Helvetica';
+  /*background-image:     url('halftone-yellow/halftone-yellow.png');*/
+  background-color: 	#fff;
+  color:                #000;
+}
+.col {
+  margin-bottom:        1em;
+}
+.card {
+  background-color:     #486824;
+  color:                #f2c057;
+  border-width:         1px;
+  /*border-color:         #111;*/
+}
+.card-header{
+  background-color:     #314D10;
+}
+.jumbotron {
+    background-color:   #D13525;
+    color:              #f2c057;
+    border-radius: 0px;
+}
+/*
+COLOR THEME FROM HEREONOUT
+4c3f54  - Fig (Grey)
+  -
+d13525  - Apple Red
+  -
+f2c057  - Yellow Swiss
+  -
+486824  - Basil (Green)
+  -
+*/
